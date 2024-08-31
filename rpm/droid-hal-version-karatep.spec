@@ -7,6 +7,8 @@
 %define vendor_pretty Lenovo
 %define device_pretty K6 Note
 
+%define droid_target_aarch64 1
+
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
 %define have_led 1
